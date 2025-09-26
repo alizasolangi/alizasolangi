@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alizasolangi&label=Profile%20views&color=0e75b6&style=flat" alt="alizasolangi" /> </p>
 
 <p align="center">
-  <img alt="Coding" width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIwdXZkbW9sd3R6dXF0b2R2YngwNDhuNXB5bzN0cWo4dmQ0cTl4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img alt="Coding" width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNnaXo2a3hqYW9zYmRtYW8xMWttOGhzMjJ2M2hoanQyaGFmaGVtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 <h3 align="left">💫 About Me</h3>
 <h4 align="left">I am a passionate undergraduate Software Engineering student skilled in C++ and Java with strong problem-solving abilities. Eager to build innovative applications, explore emerging technologies, and contribute to impactful projects. Actively developing communication, teamwork, and leadership skills alongside academics.</h4>
