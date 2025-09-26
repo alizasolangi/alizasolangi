@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aliza SOLANGI</h1>
 <h3 align="center">I am a passionate undergraduate **Software Engineering student** skilled in **C++ and Java** with strong problem-solving abilities. Eager to build innovative applications, explore emerging technologies, and contribute to impactful projects. Actively developing communication, teamwork, and leadership skills alongside academics.</h3>
 
-<img align="center" alt"Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif>
+![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531](https://github.com/user-attachments/assets/2a820846-4a00-4d6b-baae-fa79346b9229)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizasolangi&label=Profile%20views&color=0e75b6&style=flat" alt="alizasolangi" /> </p>
 
